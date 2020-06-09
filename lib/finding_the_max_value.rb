@@ -1,16 +1,12 @@
 def find_max_value(array)
-#   count = 0
-#   max_number = []
-#   while count < array.length do
-#     if array(count) > max_number
-#       max_number << array(count)
-# end
-# end
-# max_number
-while array != array.sorts
-  array.sort
+  count = 0
+  max_number = []
+  while count < array.length do
+    if array(count) > max_number
+      max_number << array(count)
 end
-array.last
+end
+max_number
 end
 
 # Pseduo code:
