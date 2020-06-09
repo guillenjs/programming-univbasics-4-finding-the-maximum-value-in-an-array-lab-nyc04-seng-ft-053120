@@ -7,6 +7,7 @@ def find_max_value(array)
   end
 end
 max_number
+binding.pry
 end
 
 Pseduo code:
