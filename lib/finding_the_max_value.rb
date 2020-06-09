@@ -5,12 +5,12 @@ def find_max_value(array)
     if array(count) > maxium_number
       max_number << array(count)
   end
-  
+
 end
 
 Pseduo code:
 
-# Check how long the array is 
+# Check how long the array is
 #   while the count is less then total length of array run loop
 #     we will access each element by using the array(count)
 #     if the array count is greater then the maximum number
