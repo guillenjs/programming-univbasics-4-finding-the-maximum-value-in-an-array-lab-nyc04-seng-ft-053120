@@ -5,7 +5,7 @@ def find_max_value(array)
     if array(count) > maxium_number
       max_number << array(count)
   end
-
+max_number
 end
 
 Pseduo code:
