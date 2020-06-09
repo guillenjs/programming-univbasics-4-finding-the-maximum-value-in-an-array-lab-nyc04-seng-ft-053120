@@ -6,6 +6,7 @@ max_value = -1
       max_value = array(count)
     end
     max_value
+  end
 end
 
 # Pseduo code:
