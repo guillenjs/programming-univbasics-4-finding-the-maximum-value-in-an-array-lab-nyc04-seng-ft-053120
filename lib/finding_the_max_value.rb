@@ -8,7 +8,6 @@ def find_max_value(array)
 # end
 # max_number
 array.sort
-binding.pry
 array.last
 end
 
