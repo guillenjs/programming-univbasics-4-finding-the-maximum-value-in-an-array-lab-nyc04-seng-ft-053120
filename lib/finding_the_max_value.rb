@@ -7,7 +7,7 @@ def find_max_value(array)
 # end
 # end
 # max_number
-if array != array.sorts
+while array != array.sorts
   array.sort
 end
 array.last
