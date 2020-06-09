@@ -6,7 +6,6 @@ def find_max_value(array)
       max_number << array(count)
 end
 max_number
-
 end
 
 # Pseduo code:
