@@ -8,6 +8,7 @@ def find_max_value(array)
 # end
 # max_number
 array.sort
+array.last
 end
 
 # Pseduo code:
