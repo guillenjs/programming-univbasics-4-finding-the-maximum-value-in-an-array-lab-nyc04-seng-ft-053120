@@ -2,7 +2,7 @@ def find_max_value(array)
   count = 0
   max_number = []
   while count < array.length do
-    if array(count) > maxium_number
+    if array(count) > max_number
       max_number << array(count)
 end
 max_number
