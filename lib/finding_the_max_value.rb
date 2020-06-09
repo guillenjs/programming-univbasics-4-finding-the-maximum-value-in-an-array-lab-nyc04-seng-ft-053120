@@ -5,8 +5,9 @@ max_value = -1
     if max_value < array(count)
       max_value = array(count)
     end
-    max_value
+      count += 1
   end
+  max_value
 end
 
 # Pseduo code:
