@@ -4,14 +4,12 @@ def find_max_value(array)
   while count < array.length do
     if array(count) > maxium_number
       max_number << array(count)
-      binding.pry
-  end
 end
 max_number
 
 end
 
-Pseduo code:
+# Pseduo code:
 
 # Check how long the array is
 #   while the count is less then total length of array run loop
